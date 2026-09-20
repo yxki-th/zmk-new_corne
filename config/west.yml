@@ -28,6 +28,6 @@ manifest:
       revision: zmk-v0.3.0.0
     - name: zmk-nice-oled
       remote: mctechnology17
-      revision: main
+      revision: v0.3/dev
   self:
     path: config
